@@ -1,0 +1,15 @@
+
+--- ĐANG XỬ LÝ MẢNG: [200,-50,15000,300] ---
+1. Tổng tiền nhận vào : $15500
+2. Trạng thái gian lận: CẢNH BÁO: Phát hiện GD lớn!
+3. Số lần thử kết nối : 2 lần (Thành công)
+
+--- ĐANG XỬ LÝ MẢNG: [-100,-500,-20,-90] ---
+1. Tổng tiền nhận vào : $0
+2. Trạng thái gian lận: An toàn
+3. Số lần thử kết nối : 3 lần (Thất bại)
+
+--- ĐANG XỬ LÝ MẢNG: [] ---
+1. Tổng tiền nhận vào : $0
+2. Trạng thái gian lận: An toàn
+3. Số lần thử kết nối : 2 lần (Thành công)
